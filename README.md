@@ -1,7 +1,7 @@
-<h1 align="center"># Активатор-Windows-Office</h1>
+<h1 align="center">Activator-Windows-Office</h1>
 
 <div id="header" align="center">
-  Ссылка на архив:<br>
+  Link to the archive:<br>
   https://disk.yandex.ru/d/U2vAZeDb8ZNnfg<br>
   <img src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAd/shrek-shrek-rizz.gif" width="100"/>
 </div>
