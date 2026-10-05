@@ -1,4 +1,4 @@
-<div align="center"># Активатор-Windows-Office</div>
+<h1 align="center"># Активатор-Windows-Office</h1>
 
 <div id="header" align="center">
   Ссылка на архив:<br>
